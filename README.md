@@ -1,2 +1,2 @@
-# Certificatifications
+# Certifications
 In this repository are my awards and certification I've received.
